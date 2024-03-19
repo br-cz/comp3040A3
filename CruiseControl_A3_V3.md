@@ -1,10 +1,8 @@
-# API Documentation
-
-Change title??
+# RandomProfileImage API Documentation
 
 ### Description
 
-The RandomProfileImage API is designed to provide developers a seamless experience for generating a default profile picture for users who do not wish to upload a picture upon account creation. It offers a simple and intuitive interface for developers that will allow them to easily integrate it into their applications.
+The RandomProfileImage API is designed to provide 3040Crypto developers a seamless experience for generating a default profile picture for users who do not wish to upload a picture upon account creation. It offers a simple and intuitive interface that will allow them to easily integrate it into their applications.
 
 ### Resources
 
