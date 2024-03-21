@@ -36,7 +36,7 @@ Where:
      - `type` (optional): Specifies the type of the random image (e.g., 'jpg', 'png', 'gif'). If not provided, any image type will be considered.
      - `color` (optional): Specifies the color of the random image (e.g., 'jpg', 'png', 'gif'). If not provided, any image color will be considered.
 
-#### Sample Request with Sample Response
+### Sample Request with Sample Response
 
 ##### Request:
 
