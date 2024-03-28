@@ -34,7 +34,7 @@ Where:
    - Parameters:
      - `category` (optional): Specifies the category of the random image (e.g., 'bitcoin', 'ethereum', 'blockchain'). If not provided, images from all categories will be considered.
      - `type` (optional): Specifies the type of the random image (e.g., 'jpg', 'png', 'gif'). If not provided, any image type will be considered.
-     - `color` (optional): Specifies the color of the random image (e.g., 'jpg', 'png', 'gif'). If not provided, any image color will be considered.
+     - `color` (optional): Specifies the color of the random image (e.g., 'red', 'blue', 'white'). If not provided, any image color will be considered.
 
 ### Sample Request with Sample Response
 
